@@ -1,0 +1,1 @@
+# Pasta para gravação temporária dos ficheiros de teste. 
